@@ -8,10 +8,10 @@ function App() {
   return (
     <>
       <div className=' text-3xl bg-blue-600 hover:bg-red-600  text-white px-8 py-4 p-12 mt-12 '>Hello World</div>
-      
-      
+        
      </>
   )
 }
 
 export default App
+
